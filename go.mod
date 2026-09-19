@@ -1,4 +1,4 @@
-module github.com/DevZank/ExpenseTrackerAPI
+module github.com/DevZank/TaskManagerAPI
 
 go 1.27.1
 

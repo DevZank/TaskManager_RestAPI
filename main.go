@@ -3,9 +3,9 @@ package main
 import (
 	"net/http"
 
-	"github.com/DevZank/ExpenseTrackerAPI/config"
-	"github.com/DevZank/ExpenseTrackerAPI/handlers"
-	"github.com/DevZank/ExpenseTrackerAPI/models"
+	"github.com/DevZank/TaskManagerAPI/config"
+	"github.com/DevZank/TaskManagerAPI/handlers"
+	"github.com/DevZank/TaskManagerAPI/models"
 	"github.com/gorilla/mux"
 )
 
