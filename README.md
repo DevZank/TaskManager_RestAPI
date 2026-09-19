@@ -1,6 +1,4 @@
-<img width="1440" height="906" alt="Captura de tela 2026-09-18 212537" src="https://github.com/user-attachments/assets/2f95cab8-538b-48d8-b2ee-44a23bae053b" /><img width="1440" height="906" alt="Captura de tela 2026-09-18 212537" src="https://github.com/user-attachments/assets/e6347337-ef9e-40ef-9362-687b260a94cb" />
-<img width="1440" height="906" alt="Captura de tela 2026-09-18 212537" src="https://github.com/user-attachments/assets/41a7d5d0-7121-4f8d-8ee6-bb344a77f6fa" />
-﻿# 📋 Task Manager REST API
+# 📋 Task Manager REST API
 
 <div align="center">
 
