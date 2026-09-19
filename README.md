@@ -1,4 +1,4 @@
-﻿# 📋 Task Manager REST API
+# 📋 Task Manager REST API
 
 <div align="center">
 
@@ -200,35 +200,35 @@ DELETE /tasks/1
 
 ## 📸 Demonstração
 
-> 💡 *Prints tirados utilizando [Postman](https://www.postman.com/) / [Insomnia](https://insomnia.rest/) / [Thunder Client](https://www.thunderclient.com/)*
+> 💡 *Prints tirados utilizando [Insomnia](https://insomnia.rest/)*
 
 ### POST — Criando uma Tarefa
 <!-- Adicione aqui o print do POST -->
-> 🖼️ *[Insira o print aqui]*
+> *<img width="1438" height="904" alt="Captura de tela 2026-09-18 212554" src="https://github.com/user-attachments/assets/88f67758-d4b1-4790-a490-ce7e560291da" />*
 
 ---
 
 ### GET — Listando as Tarefas (após o POST)
 <!-- Adicione aqui o print do GET inicial -->
-> 🖼️ *[Insira o print aqui]*
+> *<img width="1440" height="906" alt="Captura de tela 2026-09-18 212537" src="https://github.com/user-attachments/assets/d1924abe-e8c9-45d2-9cd3-743a2350b115" />*
 
 ---
 
 ### PUT — Atualizando uma Tarefa
 <!-- Adicione aqui o print do PUT -->
-> 🖼️ *[Insira o print aqui]*
+> *<img width="1439" height="905" alt="Captura de tela 2026-09-18 212736" src="https://github.com/user-attachments/assets/443e236c-57b1-4e1d-8461-2feea6a184de" />*
 
 ---
 
 ### DELETE — Deletando uma Tarefa
 <!-- Adicione aqui o print do DELETE -->
-> 🖼️ *[Insira o print aqui]*
+> *<img width="1441" height="237" alt="Captura de tela 2026-09-18 212749" src="https://github.com/user-attachments/assets/f9d1dd2d-4aaf-45e3-8b23-a4a4ff77cab4" />*
 
 ---
 
 ### GET FINAL — Estado Final das Tarefas
 <!-- Adicione aqui o print do GET final mostrando o estado atual -->
-> 🖼️ *[Insira o print aqui]*
+> *<img width="1437" height="905" alt="Captura de tela 2026-09-18 212800" src="https://github.com/user-attachments/assets/2297c2e1-3ddd-4273-83b5-b02a3cbb6168" />*
 
 ---
 
@@ -251,10 +251,4 @@ DELETE /tasks/1
 
 [![GitHub](https://img.shields.io/badge/GitHub-DevZank-181717?style=for-the-badge&logo=github)](https://github.com/DevZank)
 
-</div>
-
----
-
-<div align="center">
-  <sub>Feito com 💙 e muito Go</sub>
 </div>
